@@ -1,3 +1,3 @@
 # Devops-demo
 Trying some new things.
-Author - Prnit Deshmukh.
+Author - Pranit Deshmukh.
